@@ -240,7 +240,7 @@ shinyServer(function(input, output, session) {
     tags$div(
       "Data via stats.nba.com",
       tags$br(),
-      "toddwschneider.com/ballr"
+      ""
     )
   })
 
